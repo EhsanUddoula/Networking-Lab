@@ -1,0 +1,5 @@
+name,value,type,ttl
+www.google.com,201.123.21.12,A,86400
+www.facebook.com,102.65.28.9,A,86400
+www.cs.du.ac.bd,100.100.100.100,A,86400
+www.a.com,101.100.100.100,A,86400
